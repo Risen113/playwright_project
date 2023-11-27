@@ -8,6 +8,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 playwright = "^1.40.0"
+pytest = "^7.4.3"
+requests = "^2.31.0"
 
 
 [build-system]
